@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 // P10CharMultiplier is a class which does awseome things.
+// And it gets better and better by every minute.
 public class P10CharMultiplier {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
